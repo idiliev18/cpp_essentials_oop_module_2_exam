@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cpp_essentials_oop_module_2_exam.cpp">
+    <ClCompile Include="problem_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
